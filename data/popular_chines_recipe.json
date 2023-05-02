@@ -1,0 +1,32 @@
+[
+  {
+    "id": "01",
+    "name": "Nashville Hot Chicken",
+    "image_url": "https://hips.hearstapps.com/hmg-prod/images/nashville-hot-chicken-thumbnail-6450142202333.jpg?crop=0.565xw:1.00xh;0.189xw,0&resize=360:*"
+  },
+  {
+    "id": "02",
+    "name": "Air Fryer Mozzarella Sticks",
+    "image_url": "https://hips.hearstapps.com/vidthumb/images/mozzarella-sticks-thumbnail-645006be7b4a1.jpg?crop=0.565xw:1.00xh;0.262xw,0&resize=360:*"
+  },
+  {
+    "id": "03",
+    "name": "How to Make a Smoothie",
+    "image_url": "https://hips.hearstapps.com/hmg-prod/images/delish-how-to-make-a-smoothie-horizontal-1542310071.png?crop=0.588xw:0.766xh;0,0.234xh&resize=360:*"
+  },
+  {
+    "id": "04",
+    "name": "Croque Madame",
+    "image_url": "https://hips.hearstapps.com/hmg-prod/images/190417-croque-monsieur-horizontal-476-1556565130.jpg?crop=0.670xw:1.00xh;0.144xw,0&resize=360:*"
+  },
+  {
+    "id": "05",
+    "name": "Panera Thai Chicken Salad",
+    "image_url": "https://hips.hearstapps.com/hmg-prod/images/delish-230313-24-panera-thai-chicken-salad-2032-eb-index-6421eab906afc.jpg?crop=0.502xw:1.00xh;0.176xw,0&resize=360:*"
+  },
+  {
+    "id": "06",
+    "name": "Fish Taco Bowls",
+    "image_url": "https://hips.hearstapps.com/hmg-prod/images/fish-taco-bowls-index-6421f8aa6a4f5.jpg?crop=0.502xw:1.00xh;0.246xw,0&resize=360:*"
+  }
+]
