@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "chef_picture": "https://asiantv4u.com/wp-content/uploads/2021/10/chinese-chef-1.jpg.webp",
+    "chef_name": "Martin Yan",
+    "years_of_experience": 12,
+    "num_of_recipes": 150,
+    "likes": 5000,
+    "description": "Martin Yan is a well-known celebrity chef, restaurateur, author, and television host born in Guangzhou, China in 1948. He is famous for hosting the long-running cooking show \"Yan Can Cook\" and has published several cookbooks, including \"Martin Yan's Culinary Journey Through China.\" Yan has received numerous awards for his contributions to the culinary world, including the James Beard Foundation's Lifetime Achievement Award in 2015."
+  },
+  {
+    "id": 2,
+    "chef_picture": "https://asiantv4u.com/wp-content/uploads/2021/10/chinese-chef-2.jpg.webp",
+    "chef_name": "Shirley Chung",
+    "years_of_experience": 15,
+    "num_of_recipes": 100,
+    "likes": 3500,
+    "description": "Shirley Chung is a Taiwanese-American chef who rose to fame as a finalist on the 11th season of the popular cooking competition show, \"Top Chef.\" Born in Beijing, China, Chung grew up in California and trained at the California Culinary Academy. She worked in several Michelin-starred restaurants before opening her own restaurant, Chung Lee Kitchen, in 2017. Chung has also been featured on other cooking shows such as \"Iron Chef America\" and \"Guy's Grocery Games.\" She is known for her modern Chinese cuisine and has published a cookbook called \"Chinese Heritage Cooking from My American Kitchen.\""
+  },
+  {
+    "id": 3,
+    "chef_picture": "https://asiantv4u.com/wp-content/uploads/2021/10/chinese-chef-3.jpg.webp",
+    "chef_name": "Stephen Yan",
+    "years_of_experience": 25,
+    "num_of_recipes": 200,
+    "likes": 6000,
+    "description": "Stephen Yan is a Canadian chef, author, and television personality known for his cooking show \"Wok with Yan,\" which aired in Canada and the United States from 1976 to 1984. Born in Guangzhou, China, Yan immigrated to Canada in 1961 and worked as a waiter before starting his own restaurant. His television show, which focused on Chinese cuisine, was popular for its catchy theme song and Yan's entertaining personality. Yan has also written several cookbooks, including \"Wok with Yan\" and \"The Chinese Cookbook.\" He continues to make appearances at food events and is regarded as a pioneer in bringing Chinese cuisine to a wider audience in North America."
+  },
+  {
+    "id": 4,
+    "chef_picture": "https://asiantv4u.com/wp-content/uploads/2021/10/chinese-chef-4.jpg.webp",
+    "chef_name": "Ken Hom",
+    "years_of_experience": 18,
+    "num_of_recipes": 120,
+    "likes": 4500,
+    "description": "Ken Hom is a Chinese-American chef, author, and television presenter who is known for his expertise in Chinese cuisine. He was born in Tucson, Arizona, in 1949, but grew up in Chicago's Chinatown. Hom first learned to cook at a young age from his Cantonese mother, and later honed his skills in restaurants in San Francisco and France. He has authored over 30 cookbooks, many of which have won awards, and his most famous book, \"Ken Hom's Chinese Cookery,\" has sold over 1.5 million copies worldwide. Hom has also hosted several cooking shows, including \"Ken Hom's Chinese Cookery\" and \"Exploring China: A Culinary Adventure.\" He is considered one of the world's leading authorities on Chinese cuisine and has received numerous awards for his contributions to the culinary world."
+  },
+  {
+    "id": 5,
+    "chef_picture": "https://asiantv4u.com/wp-content/uploads/2021/10/chinese-chef-8.jpg.webp",
+    "chef_name": "Susanna Foo",
+    "years_of_experience": 12,
+    "num_of_recipes": 80,
+    "likes": 2800,
+    "description": "Susanna Foo is a Chinese-American chef and restaurateur who has gained acclaim for her fusion of traditional Chinese and French cuisines. She was born in Inner Mongolia, China in 1944 and moved to the United States in 1960 to attend college. Foo began her culinary career in the 1980s after studying at Le Cordon Bleu in Paris and working in several prestigious restaurants. In 1987, she opened her first restaurant, Susanna Foo's Chinese Cuisine, in Philadelphia, which quickly gained recognition and earned her a James Beard Award. She went on to open several more restaurants, including Suilan in Philadelphia and Susanna Foo's Kitchen in Radnor, Pennsylvania. Foo has published several cookbooks, including \"Susanna Foo Chinese Cuisine,\" and \"Susanna Foo Fresh Inspiration.\" She is considered one of the pioneers of modern Chinese cuisine in the United States and has been recognized as a leading female chef."
+  },
+  {
+    "id": 6,
+    "chef_picture": "https://www.pbs.org/food/wp-content/blogs.dir/2/files/2015/04/Cecilia-Chiang_archive-photo600x449.jpg",
+    "chef_name": "Cecilia Chiang",
+    "years_of_experience": 22,
+    "num_of_recipes": 170,
+    "likes": 5500,
+    "description": "Cecilia Chiang was a Chinese-American chef and restaurateur who is considered a pioneer in bringing authentic Chinese cuisine to the United States. She was born in Shanghai, China in 1920 and moved to the United States in the 1960s. Chiang opened her first restaurant, The Mandarin, in San Francisco in 1961, which became a popular destination for both locals and celebrities. The restaurant introduced traditional Chinese dishes such as Peking duck and hot and sour soup to American palates. Chiang also trained many chefs who went on to become successful in their own right, including Martin Yan and Alice Waters. She has been recognized with numerous awards, including the James Beard Foundation Lifetime Achievement Award in 2013. Chiang passed away in 2020 at the age of 100, but her legacy lives on as an influential figure in American culinary history."
+  }
+]
