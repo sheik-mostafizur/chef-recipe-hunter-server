@@ -1,0 +1,50 @@
+[
+  {
+    "id": "01",
+    "name": "Cai Yi Xuan",
+    "image_url": "https://assets.traveltriangle.com/blog/wp-content/uploads/2018/07/113.jpg",
+    "must_try": "Dim sum, and steamed dumpling with lobster",
+    "location": "48 Liangmaqiao Lu, Beijing",
+    "description": "Are you in Beijing and looking for Chinese fine dining? Head to Four Seasons Beijing where you will find the luxury dining restaurant of Cai Yi Xuan. Tobacco-hued and being artistically retro, the restaurant is known for its Chinese delicacies brought to you by Chef Li Qiang. A favorite among the locals as well as the travelers alike, Cai Yi Xuan has an amazing ambience that adds to its overall appeal."
+  },
+  {
+    "id": "02",
+    "name": "Ultraviolet",
+    "image_url": "https://assets.traveltriangle.com/blog/wp-content/uploads/2018/07/27.jpg",
+    "must_try": "Truffle Burnt Soup Bread, and Pop Rock Oyster",
+    "location": "Shanghai",
+    "description": "This is a high-concept restaurant in Shanghai that takes experiential and experimental dining to a whole new level. A brainchild of the renowned French chef – Paul Pairet, Ultraviolet is definitely one of the most famous restaurants in China, known for the music-driven atmosphere. The unique thing about this restaurant is there is no fixed location. You are picked up from a meeting point and taken to a secret location where you can satisfy your appetite to the core."
+  },
+  {
+    "id": "03",
+    "name": "DiVino Wine Bar & Restaurant",
+    "image_url": "https://assets.traveltriangle.com/blog/wp-content/uploads/2018/07/36.jpg",
+    "must_try": "Tuna tartare, and pasta penne Jerome",
+    "location": "73 Wyndham Street, Central, Hong Kong",
+    "description": "DiVino Wine Bar & Restaurant is the perfect place in the city to enjoy a drink or two and some wonderful Italian food. Located in the city center which happens to be a major entertainment district, it is a great place to dine after a day full of exploration. With a great selection of wines and an amazing atmosphere, the restaurant offers a perfect balance of everything. From world-class ambience to high-quality food and superb service, DiVino is definitely one of the top restaurants in China."
+  },
+  {
+    "id": "04",
+    "name": "Asia Bistro",
+    "image_url": "https://assets.traveltriangle.com/blog/wp-content/uploads/2018/07/45.jpg",
+    "must_try": "Roasted oyster, steamed crabs, and salmon wellington",
+    "location": "GongShu District, HuShu South Road 28",
+    "description": "Hangzhou is an interesting city in China that attracts thousands of visitors and if you’re looking for a place to taste Asian cuisine without spending a fortune, Asia Bistro is the place to be. The restaurant serves Chinese and Asian cuisine along with seafood and sushi. The atmosphere is great and so is the service. You can expect high-quality food at Asia Bistro, including breakfast choices and vegetarian and gluten-free options."
+  },
+  {
+    "id": "05",
+    "name": "Lost Heaven",
+    "image_url": "https://assets.traveltriangle.com/blog/wp-content/uploads/2018/07/55.jpg",
+    "must_try": "Lamb samosas, pork ribs with sauce, and stir fry kale",
+    "location": "38, Gaoyou Road, Shanghai",
+    "description": "When it comes to restaurants in China, Lost Heaven in Shanghai is a rare gem. What sets it apart from many others is that it specializes in the Yunnan region’s cuisine. While it is not as well-known internationally as the cuisines from other regions, Yunnan food is delicious with Thai, Burmese, and Lao influences. If you are in Shanghai and looking for something different from the usual Chinese cuisine, you should definitely visit Lost Heaven and enjoy the spicy flavours of the Yunnan region."
+  },
+  {
+    "id": "06",
+    "name": "Manakamana Nepali Restaurant",
+    "image_url": "https://assets.traveltriangle.com/blog/wp-content/uploads/2018/07/64.jpg",
+    "must_try": "Garlic or cheese naan and butter chicken, momos, and kulfi",
+    "location": "G/F, 165 Temple Street, Jordan, Hong Kong",
+    "description": "When you are in an international destination like Hong Kong, it may seem like finding affordable food is a major challenge. But you may be surprised to learn that the city is dotted with affordable eateries, like Manakamana Nepali Restaurant. The food in this restaurant may be cheap, but you can expect superb treats of Indian and Nepalese cuisines. While the service is great too, this is definitely a place to visit when you are in Hong Kong."
+  }
+]

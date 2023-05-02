@@ -5,8 +5,14 @@ const PORT = process.env.PORT || 3000;
 
 const chinesChefData = require("./data/chines_chef.json");
 const popularChinesRecipe = require("./data/popular_chines_recipe.json");
+const popularChinesRestaurants = require("./data/popular_chines_restaurants.json");
 
 app.use(cors());
+
+app.use("/popular-chines-restaurants", (req, res) => {
+  res.send(popularChinesRestaurants);
+  res.end();
+});
 
 app.use("/popular-chines-recipe", (req, res) => {
   res.send(popularChinesRecipe);
