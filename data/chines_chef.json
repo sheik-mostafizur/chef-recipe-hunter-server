@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "chef_picture": "https://asiantv4u.com/wp-content/uploads/2021/10/chinese-chef-1.jpg.webp",
+    "chef_name": "Martin Yan",
+    "years_of_experience": 12,
+    "num_of_recipes": 150,
+    "likes": 5000
+  },
+  {
+    "id": 2,
+    "chef_picture": "https://asiantv4u.com/wp-content/uploads/2021/10/chinese-chef-2.jpg.webp",
+    "chef_name": "Shirley Chung",
+    "years_of_experience": 15,
+    "num_of_recipes": 100,
+    "likes": 3500
+  },
+  {
+    "id": 3,
+    "chef_picture": "https://asiantv4u.com/wp-content/uploads/2021/10/chinese-chef-3.jpg.webp",
+    "chef_name": "Stephen Yan",
+    "years_of_experience": 25,
+    "num_of_recipes": 200,
+    "likes": 6000
+  },
+  {
+    "id": 4,
+    "chef_picture": "https://asiantv4u.com/wp-content/uploads/2021/10/chinese-chef-4.jpg.webp",
+    "chef_name": "Ken Hom",
+    "years_of_experience": 18,
+    "num_of_recipes": 120,
+    "likes": 4500
+  },
+  {
+    "id": 5,
+    "chef_picture": "https://asiantv4u.com/wp-content/uploads/2021/10/chinese-chef-8.jpg.webp",
+    "chef_name": "Susanna Foo",
+    "years_of_experience": 12,
+    "num_of_recipes": 80,
+    "likes": 2800
+  },
+  {
+    "id": 6,
+    "chef_picture": "https://i2-prod.cornwalllive.com/incoming/article2808353.ece/ALTERNATES/s1200/0_GMP_DCM_280419PorthlevenFoodFest_10JPG.jpg",
+    "chef_name": "Peng Fan",
+    "years_of_experience": 22,
+    "num_of_recipes": 170,
+    "likes": 5500
+  }
+]
