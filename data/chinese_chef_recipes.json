@@ -6,7 +6,157 @@
     "years_of_experience": 12,
     "num_of_recipes": 150,
     "likes": 5000,
-    "description": "Martin Yan is a well-known celebrity chef, restaurateur, author, and television host born in Guangzhou, China in 1948. He is famous for hosting the long-running cooking show \"Yan Can Cook\" and has published several cookbooks, including \"Martin Yan's Culinary Journey Through China.\" Yan has received numerous awards for his contributions to the culinary world, including the James Beard Foundation's Lifetime Achievement Award in 2015."
+    "description": "Martin Yan is a well-known celebrity chef, restaurateur, author, and television host born in Guangzhou, China in 1948. He is famous for hosting the long-running cooking show \"Yan Can Cook\" and has published several cookbooks, including \"Martin Yan's Culinary Journey Through China.\" Yan has received numerous awards for his contributions to the culinary world, including the James Beard Foundation's Lifetime Achievement Award in 2015.",
+    "recipes": [
+      {
+        "recipeName": "Spicy Shrimp Linguine",
+        "recipe_image": "https://sparkpeo.hs.llnwd.net/e2/guid/Linguine-with-Spicy-Shrimp-/ca443806-9768-4994-b38c-a5cff9950f75.jpg",
+        "ingredients": [
+          {
+            "name": "linguine",
+            "amount": "8 ounces"
+          },
+          {
+            "name": "shrimp",
+            "amount": "1 pound, peeled and deveined"
+          },
+          {
+            "name": "olive oil",
+            "amount": "2 tablespoons"
+          },
+          {
+            "name": "garlic",
+            "amount": "3 cloves, minced"
+          },
+          {
+            "name": "red pepper flakes",
+            "amount": "1/2 teaspoon"
+          },
+          {
+            "name": "tomatoes",
+            "amount": "2 cups, diced"
+          },
+          {
+            "name": "salt",
+            "amount": "to taste"
+          },
+          {
+            "name": "black pepper",
+            "amount": "to taste"
+          },
+          {
+            "name": "fresh parsley",
+            "amount": "2 tablespoons, chopped"
+          }
+        ],
+        "cookingMethod": "1. Cook linguine according to package directions.\n2. While pasta is cooking, heat olive oil in a large skillet over medium heat.\n3. Add shrimp, garlic, and red pepper flakes. Cook until shrimp are pink and opaque, about 2-3 minutes per side.\n4. Add tomatoes and cook until they start to break down, about 5 minutes.\n5. Season with salt and black pepper to taste.\n6. Toss cooked linguine with shrimp and tomato sauce.\n7. Garnish with fresh parsley.",
+        "rating": 4.5
+      },
+      {
+        "recipeName": "Kung Pao Chicken",
+        "recipe_image": "https://www.onceuponachef.com/images/2018/05/Kung-Pao-Chicken-16-scaled.jpg",
+        "ingredients": [
+          {
+            "name": "chicken breast",
+            "amount": "1 pound, cut into bite-sized pieces"
+          },
+          {
+            "name": "cornstarch",
+            "amount": "2 tablespoons"
+          },
+          {
+            "name": "soy sauce",
+            "amount": "1 tablespoon"
+          },
+          {
+            "name": "rice vinegar",
+            "amount": "1 tablespoon"
+          },
+          {
+            "name": "sugar",
+            "amount": "1 tablespoon"
+          },
+          {
+            "name": "vegetable oil",
+            "amount": "2 tablespoons"
+          },
+          {
+            "name": "dried red chili peppers",
+            "amount": "8, seeded and roughly chopped"
+          },
+          {
+            "name": "Sichuan peppercorns",
+            "amount": "1 teaspoon, crushed"
+          },
+          {
+            "name": "garlic",
+            "amount": "3 cloves, minced"
+          },
+          {
+            "name": "ginger",
+            "amount": "1 tablespoon, minced"
+          },
+          {
+            "name": "green onions",
+            "amount": "3, chopped"
+          },
+          {
+            "name": "roasted peanuts",
+            "amount": "1/2 cup"
+          }
+        ],
+        "cookingMethod": "1. In a bowl, mix the chicken, cornstarch, soy sauce, rice vinegar, and sugar together.\n2. Heat the vegetable oil in a wok or large skillet over high heat. Add the chicken and stir-fry until cooked through, about 4-5 minutes. Remove the chicken from the pan and set aside.\n3. In the same pan, add the dried red chili peppers, Sichuan peppercorns, garlic, and ginger. Stir-fry for about 30 seconds or until fragrant.\n4. Add the green onions and stir-fry for another 30 seconds.\n5. Return the chicken to the pan and stir-fry for another minute or two.\n6. Add the roasted peanuts and toss to combine.\n7. Serve with steamed rice.",
+        "rating": 4.8
+      },
+      {
+        "recipeName": "Beef and Broccoli Stir Fry",
+        "recipe_image": "https://www.thespruceeats.com/thmb/VaEnqMQdywvzYB-S53-maVSyUfE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/beef-with-broccoli-stir-fry-recipe-4081780-7cae1ba73e2948cf81c2fc1ae6c67546.jpg",
+        "ingredients": [
+          {
+            "name": "beef sirloin",
+            "amount": "1 pound, thinly sliced"
+          },
+          {
+            "name": "cornstarch",
+            "amount": "2 tablespoons"
+          },
+          {
+            "name": "soy sauce",
+            "amount": "2 tablespoons"
+          },
+          {
+            "name": "hoisin sauce",
+            "amount": "1 tablespoon"
+          },
+          {
+            "name": "sugar",
+            "amount": "1 teaspoon"
+          },
+          {
+            "name": "garlic",
+            "amount": "3 cloves, minced"
+          },
+          {
+            "name": "ginger",
+            "amount": "1 tablespoon, minced"
+          },
+          {
+            "name": "vegetable oil",
+            "amount": "2 tablespoons"
+          },
+          {
+            "name": "broccoli florets",
+            "amount": "4 cups"
+          },
+          {
+            "name": "water",
+            "amount": "1/4 cup"
+          }
+        ],
+        "cookingMethod": "1. In a bowl, mix the sliced beef with cornstarch, soy sauce, hoisin sauce, sugar, garlic, and ginger. Set aside to marinate for 30 minutes.\n2. Heat vegetable oil in a wok or large skillet over high heat. Add the marinated beef and stir-fry for 2-3 minutes or until browned. Remove the beef from the pan and set aside.\n3. In the same pan, add the broccoli florets and stir-fry for 2-3 minutes or until crisp-tender.\n4. Add 1/4 cup of water to the pan and cover it with a lid. Let the broccoli steam for about 2 minutes or until it's fully cooked but still bright green.\n5. Return the beef to the pan and stir-fry for another minute or two.\n6. Serve with steamed rice.",
+        "rating": 4.7
+      }
+    ]
   },
   {
     "id": 2,
@@ -15,7 +165,177 @@
     "years_of_experience": 15,
     "num_of_recipes": 100,
     "likes": 3500,
-    "description": "Shirley Chung is a Taiwanese-American chef who rose to fame as a finalist on the 11th season of the popular cooking competition show, \"Top Chef.\" Born in Beijing, China, Chung grew up in California and trained at the California Culinary Academy. She worked in several Michelin-starred restaurants before opening her own restaurant, Chung Lee Kitchen, in 2017. Chung has also been featured on other cooking shows such as \"Iron Chef America\" and \"Guy's Grocery Games.\" She is known for her modern Chinese cuisine and has published a cookbook called \"Chinese Heritage Cooking from My American Kitchen.\""
+    "description": "Shirley Chung is a Taiwanese-American chef who rose to fame as a finalist on the 11th season of the popular cooking competition show, \"Top Chef.\" Born in Beijing, China, Chung grew up in California and trained at the California Culinary Academy. She worked in several Michelin-starred restaurants before opening her own restaurant, Chung Lee Kitchen, in 2017. Chung has also been featured on other cooking shows such as \"Iron Chef America\" and \"Guy's Grocery Games.\" She is known for her modern Chinese cuisine and has published a cookbook called \"Chinese Heritage Cooking from My American Kitchen.\"",
+    "recipes": [
+      {
+        "recipeName": "Kung Pao Chicken",
+        "recipe_image": "https://www.onceuponachef.com/images/2018/05/Kung-Pao-Chicken-16-scaled.jpg",
+        "ingredients": [
+          {
+            "name": "chicken breast",
+            "amount": "1 pound, cubed"
+          },
+          {
+            "name": "cornstarch",
+            "amount": "2 tablespoons"
+          },
+          {
+            "name": "soy sauce",
+            "amount": "2 tablespoons"
+          },
+          {
+            "name": "rice vinegar",
+            "amount": "1 tablespoon"
+          },
+          {
+            "name": "sugar",
+            "amount": "1 teaspoon"
+          },
+          {
+            "name": "vegetable oil",
+            "amount": "2 tablespoons"
+          },
+          {
+            "name": "dried chili peppers",
+            "amount": "6-8 pieces"
+          },
+          {
+            "name": "garlic",
+            "amount": "3 cloves, minced"
+          },
+          {
+            "name": "ginger",
+            "amount": "1 tablespoon, minced"
+          },
+          {
+            "name": "green onions",
+            "amount": "2, chopped"
+          },
+          {
+            "name": "roasted peanuts",
+            "amount": "1/2 cup"
+          }
+        ],
+        "cookingMethod": "1. In a bowl, mix the chicken with cornstarch, soy sauce, rice vinegar, and sugar. Set aside to marinate for 30 minutes.\n2. Heat vegetable oil in a wok or large skillet over high heat. Add the dried chili peppers and stir-fry for a few seconds until fragrant. Remove the chili peppers and set them aside.\n3. Add the marinated chicken to the pan and stir-fry for 4-5 minutes or until cooked through. Remove the chicken from the pan and set it aside.\n4. In the same pan, add garlic, ginger, and green onions. Stir-fry for a minute or two until fragrant.\n5. Return the chicken to the pan and add the roasted peanuts and chili peppers. Stir-fry for another minute or two until everything is heated through.\n6. Serve with steamed rice.",
+        "rating": 4.8
+      },
+      {
+        "recipeName": "Hot and Sour Soup",
+        "recipe_image": "https://www.pressurecookrecipes.com/wp-content/uploads/2023/02/instant-pot-hot-and-sour-soup.jpg",
+        "ingredients": [
+          {
+            "name": "dried wood ear mushrooms",
+            "amount": "1/4 cup"
+          },
+          {
+            "name": "dried shiitake mushrooms",
+            "amount": "1/4 cup"
+          },
+          {
+            "name": "bamboo shoots",
+            "amount": "1/4 cup, julienned"
+          },
+          {
+            "name": "tofu",
+            "amount": "1/4 cup, cubed"
+          },
+          {
+            "name": "pork loin",
+            "amount": "1/4 cup, julienned"
+          },
+          {
+            "name": "cornstarch",
+            "amount": "2 tablespoons"
+          },
+          {
+            "name": "chicken broth",
+            "amount": "4 cups"
+          },
+          {
+            "name": "rice vinegar",
+            "amount": "1/4 cup"
+          },
+          {
+            "name": "soy sauce",
+            "amount": "2 tablespoons"
+          },
+          {
+            "name": "sesame oil",
+            "amount": "1 teaspoon"
+          },
+          {
+            "name": "white pepper",
+            "amount": "1/2 teaspoon"
+          },
+          {
+            "name": "eggs",
+            "amount": "2, beaten"
+          },
+          {
+            "name": "green onions",
+            "amount": "2, chopped"
+          }
+        ],
+        "cookingMethod": "1. Soak the dried wood ear mushrooms and shiitake mushrooms in warm water for 15-20 minutes until they are soft. Drain and cut them into thin strips.\n2. In a pot, add the chicken broth, soaked mushrooms, bamboo shoots, tofu, and pork loin. Bring to a boil and let it simmer for 5-6 minutes.\n3. In a small bowl, mix the cornstarch with 1/4 cup of cold water until dissolved. Add the cornstarch mixture to the pot and stir until the soup thickens.\n4. Add the rice vinegar, soy sauce, sesame oil, and white pepper. Stir well.\n5. Slowly pour the beaten eggs into the soup while stirring gently in one direction. Cook for an additional minute until the eggs are cooked.\n6. Garnish with chopped green onions and serve hot.",
+        "rating": 4.7
+      },
+      {
+        "recipeName": "Ma Po Tofu",
+        "recipe_image": "https://futuredish.com/wp-content/uploads/2020/02/Spicy-Tofu.jpg",
+        "ingredients": [
+          {
+            "name": "dried shiitake mushrooms",
+            "amount": "5-6, soaked in water until soft and sliced"
+          },
+          {
+            "name": "firm tofu",
+            "amount": "1 block (14 ounces), diced"
+          },
+          {
+            "name": "ground pork",
+            "amount": "1/2 pound"
+          },
+          {
+            "name": "Sichuan peppercorns",
+            "amount": "1 tablespoon"
+          },
+          {
+            "name": "vegetable oil",
+            "amount": "2 tablespoons"
+          },
+          {
+            "name": "garlic",
+            "amount": "3 cloves, minced"
+          },
+          {
+            "name": "ginger",
+            "amount": "1 tablespoon, minced"
+          },
+          {
+            "name": "doubanjiang (spicy bean paste)",
+            "amount": "2 tablespoons"
+          },
+          {
+            "name": "water",
+            "amount": "1 cup"
+          },
+          {
+            "name": "cornstarch",
+            "amount": "2 tablespoons"
+          },
+          {
+            "name": "soy sauce",
+            "amount": "2 tablespoons"
+          },
+          {
+            "name": "green onions",
+            "amount": "2, sliced"
+          }
+        ],
+        "cookingMethod": "1. Heat the vegetable oil in a wok or large skillet over medium-high heat. Add the Sichuan peppercorns and fry until fragrant, about 30 seconds.\n2. Add the ground pork, garlic, and ginger, and stir-fry until the pork is no longer pink.\n3. Add the doubanjiang and stir-fry for another minute.\n4. Add the sliced mushrooms and tofu, and stir gently to combine.\n5. Add the water and bring to a boil. Reduce the heat to low and simmer for 10 minutes.\n6. In a small bowl, whisk together the cornstarch and soy sauce until smooth. Add the mixture to the wok and stir well.\n7. Simmer for another 2-3 minutes, until the sauce has thickened.\n8. Serve hot, garnished with sliced green onions. Enjoy with rice or noodles!",
+        "rating": "4.8"
+      }
+    ]
   },
   {
     "id": 3,
@@ -24,7 +344,145 @@
     "years_of_experience": 25,
     "num_of_recipes": 200,
     "likes": 6000,
-    "description": "Stephen Yan is a Canadian chef, author, and television personality known for his cooking show \"Wok with Yan,\" which aired in Canada and the United States from 1976 to 1984. Born in Guangzhou, China, Yan immigrated to Canada in 1961 and worked as a waiter before starting his own restaurant. His television show, which focused on Chinese cuisine, was popular for its catchy theme song and Yan's entertaining personality. Yan has also written several cookbooks, including \"Wok with Yan\" and \"The Chinese Cookbook.\" He continues to make appearances at food events and is regarded as a pioneer in bringing Chinese cuisine to a wider audience in North America."
+    "description": "Stephen Yan is a Canadian chef, author, and television personality known for his cooking show \"Wok with Yan,\" which aired in Canada and the United States from 1976 to 1984. Born in Guangzhou, China, Yan immigrated to Canada in 1961 and worked as a waiter before starting his own restaurant. His television show, which focused on Chinese cuisine, was popular for its catchy theme song and Yan's entertaining personality. Yan has also written several cookbooks, including \"Wok with Yan\" and \"The Chinese Cookbook.\" He continues to make appearances at food events and is regarded as a pioneer in bringing Chinese cuisine to a wider audience in North America.",
+    "recipes": [
+      {
+        "recipeName": "Peking Duck",
+        "recipe_image": "https://www.thespruceeats.com/thmb/ggHafkpSpJqI3zs6o92DusfEeC4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-145059660-59b1a84edafc47269db2062015b80c05.jpg",
+        "ingredients": [
+          {"name": "whole duck", "amount": "1 (4-5 pounds)"},
+          {"name": "water", "amount": "4 cups"},
+          {"name": "honey", "amount": "1/4 cup"},
+          {"name": "soy sauce", "amount": "1/4 cup"},
+          {"name": "Shaoxing wine", "amount": "1/4 cup"},
+          {"name": "hoisin sauce", "amount": "1/4 cup"},
+          {"name": "cornstarch", "amount": "2 tablespoons"},
+          {"name": "water chestnuts", "amount": "1/2 cup, finely chopped"},
+          {"name": "scallions", "amount": "1/2 cup, finely chopped"},
+          {"name": "sesame oil", "amount": "2 tablespoons"},
+          {"name": "pancakes", "amount": "10-12, warmed"},
+          {"name": "cucumber", "amount": "1, julienned"},
+          {"name": "green onions", "amount": "3, julienned"}
+        ],
+        "cookingMethod": "1. Clean the duck and remove the head and feet. Rinse thoroughly and pat dry.\n2. In a large pot, bring 4 cups of water to a boil. Add the honey, soy sauce, and Shaoxing wine. Stir until the honey has dissolved.\n3. Using a ladle, pour the hot liquid over the duck several times, until the skin is tight and shiny.\n4. Hang the duck in a cool, dry, and well-ventilated place for 6-8 hours, until the skin is dry to the touch.\n5. Preheat the oven to 375°F. Place the duck on a rack in a roasting pan, breast side up.\n6. Roast the duck for 45 minutes, then flip it over and roast for another 45 minutes, until the skin is crispy and golden brown.\n7. While the duck is roasting, make the sauce. In a small saucepan, combine the hoisin sauce, cornstarch, and 1/2 cup of water. Bring to a boil, stirring constantly, until the sauce thickens.\n8. In a small bowl, mix together the water chestnuts, scallions, and sesame oil.\n9. To serve, slice the duck meat thinly and arrange on a platter with the warmed pancakes, julienned cucumber, julienned green onions, sauce, and water chestnut mixture. To assemble, spread a spoonful of hoisin sauce on a pancake, add a few slices of duck, some cucumber and green onion, and roll up like a burrito. Enjoy!",
+        "rating": "4.9"
+      },
+      {
+        "recipeName": "Mapo Tofu",
+        "recipe_image": "https://hips.hearstapps.com/hmg-prod/images/mapo-tofu-2-jpg-1642115176.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+        "ingredients": [
+          {
+            "name": "firm tofu",
+            "amount": "1 pound"
+          },
+          {
+            "name": "ground pork",
+            "amount": "1/2 pound"
+          },
+          {
+            "name": "Sichuan peppercorns",
+            "amount": "1 tablespoon"
+          },
+          {
+            "name": "vegetable oil",
+            "amount": "2 tablespoons"
+          },
+          {
+            "name": "ginger",
+            "amount": "1 tablespoon, minced"
+          },
+          {
+            "name": "garlic",
+            "amount": "1 tablespoon, minced"
+          },
+          {
+            "name": "green onion",
+            "amount": "1/4 cup, chopped"
+          },
+          {
+            "name": "doubanjiang",
+            "amount": "2 tablespoons"
+          },
+          {
+            "name": "fermented black beans",
+            "amount": "2 tablespoons, rinsed and drained"
+          },
+          {
+            "name": "chili oil",
+            "amount": "1 tablespoon"
+          },
+          {
+            "name": "chicken stock",
+            "amount": "1 cup"
+          },
+          {
+            "name": "cornstarch",
+            "amount": "2 teaspoons"
+          },
+          {
+            "name": "water",
+            "amount": "2 tablespoons"
+          },
+          {
+            "name": "sesame oil",
+            "amount": "1 tablespoon"
+          },
+          {
+            "name": "green onion",
+            "amount": "1/4 cup, sliced (for garnish)"
+          }
+        ],
+        "cookingMethod": "1. Cut the tofu into small cubes and set aside.\n2. In a dry wok or skillet, toast the Sichuan peppercorns over medium heat until fragrant. Grind into a powder and set aside.\n3. In the same wok or skillet, heat the vegetable oil over high heat. Add the ground pork and cook, breaking up any clumps, until browned and crispy.\n4. Add the ginger, garlic, and chopped green onion and stir-fry for 30 seconds.\n5. Add the doubanjiang, fermented black beans, and chili oil and stir-fry for another 30 seconds.\n6. Pour in the chicken stock and bring to a boil.\n7. Gently stir in the tofu and cook until heated through.\n8. In a small bowl, mix the cornstarch with water to form a slurry. Add to the wok and stir gently until the sauce thickens.\n9. Remove from heat and stir in the sesame oil.\n10. Serve hot, garnished with sliced green onion.",
+        "rating": "4.8"
+      },
+      {
+        "recipeName": "Steamed Fish with Ginger and Scallions",
+        "recipe_image": "https://images.food52.com/xt6tsL9TL0mcFZGCFaV_1c1DsgU=/2016x1344/filters:format(webp)/84e5f55c-ed92-4ea4-877e-5072689aaaa4--2018-0301_sponsored_miele_steamed-fish-with-ginger-scallions_3x2_julia-gartland_162.jpg",
+        "ingredients": [
+          {
+            "name": "whole fish",
+            "amount": "1 (about 2 lbs), cleaned and scaled"
+          },
+          {
+            "name": "ginger",
+            "amount": "3 tbsp, julienned"
+          },
+          {
+            "name": "scallions",
+            "amount": "3 stalks, julienned"
+          },
+          {
+            "name": "soy sauce",
+            "amount": "2 tbsp"
+          },
+          {
+            "name": "rice wine",
+            "amount": "2 tbsp"
+          },
+          {
+            "name": "sesame oil",
+            "amount": "1 tbsp"
+          },
+          {
+            "name": "sugar",
+            "amount": "1/2 tsp"
+          },
+          {
+            "name": "salt",
+            "amount": "1/2 tsp"
+          }
+        ],
+        "cookingMethod": [
+          "Fill a wok or deep pan with water and bring to a boil.",
+          "Place the fish on a heatproof dish that will fit inside the wok or pan.",
+          "Spread the ginger and scallions on top of the fish.",
+          "Mix together the soy sauce, rice wine, sesame oil, sugar, and salt, and pour over the fish.",
+          "Place the dish inside the wok or pan, cover, and steam for 10-15 minutes or until the fish is cooked through.",
+          "Carefully remove the dish from the wok or pan and serve hot with steamed rice."
+        ],
+        "rating": 4.8
+      }
+    ]
   },
   {
     "id": 4,
@@ -33,7 +491,157 @@
     "years_of_experience": 18,
     "num_of_recipes": 120,
     "likes": 4500,
-    "description": "Ken Hom is a Chinese-American chef, author, and television presenter who is known for his expertise in Chinese cuisine. He was born in Tucson, Arizona, in 1949, but grew up in Chicago's Chinatown. Hom first learned to cook at a young age from his Cantonese mother, and later honed his skills in restaurants in San Francisco and France. He has authored over 30 cookbooks, many of which have won awards, and his most famous book, \"Ken Hom's Chinese Cookery,\" has sold over 1.5 million copies worldwide. Hom has also hosted several cooking shows, including \"Ken Hom's Chinese Cookery\" and \"Exploring China: A Culinary Adventure.\" He is considered one of the world's leading authorities on Chinese cuisine and has received numerous awards for his contributions to the culinary world."
+    "description": "Ken Hom is a Chinese-American chef, author, and television presenter who is known for his expertise in Chinese cuisine. He was born in Tucson, Arizona, in 1949, but grew up in Chicago's Chinatown. Hom first learned to cook at a young age from his Cantonese mother, and later honed his skills in restaurants in San Francisco and France. He has authored over 30 cookbooks, many of which have won awards, and his most famous book, \"Ken Hom's Chinese Cookery,\" has sold over 1.5 million copies worldwide. Hom has also hosted several cooking shows, including \"Ken Hom's Chinese Cookery\" and \"Exploring China: A Culinary Adventure.\" He is considered one of the world's leading authorities on Chinese cuisine and has received numerous awards for his contributions to the culinary world.",
+    "recipes": [
+      {
+        "recipeName": "Spicy Shrimp Linguine",
+        "recipe_image": "https://sparkpeo.hs.llnwd.net/e2/guid/Linguine-with-Spicy-Shrimp-/ca443806-9768-4994-b38c-a5cff9950f75.jpg",
+        "ingredients": [
+          {
+            "name": "linguine",
+            "amount": "8 ounces"
+          },
+          {
+            "name": "shrimp",
+            "amount": "1 pound, peeled and deveined"
+          },
+          {
+            "name": "olive oil",
+            "amount": "2 tablespoons"
+          },
+          {
+            "name": "garlic",
+            "amount": "3 cloves, minced"
+          },
+          {
+            "name": "red pepper flakes",
+            "amount": "1/2 teaspoon"
+          },
+          {
+            "name": "tomatoes",
+            "amount": "2 cups, diced"
+          },
+          {
+            "name": "salt",
+            "amount": "to taste"
+          },
+          {
+            "name": "black pepper",
+            "amount": "to taste"
+          },
+          {
+            "name": "fresh parsley",
+            "amount": "2 tablespoons, chopped"
+          }
+        ],
+        "cookingMethod": "1. Cook linguine according to package directions.\n2. While pasta is cooking, heat olive oil in a large skillet over medium heat.\n3. Add shrimp, garlic, and red pepper flakes. Cook until shrimp are pink and opaque, about 2-3 minutes per side.\n4. Add tomatoes and cook until they start to break down, about 5 minutes.\n5. Season with salt and black pepper to taste.\n6. Toss cooked linguine with shrimp and tomato sauce.\n7. Garnish with fresh parsley.",
+        "rating": 4.5
+      },
+      {
+        "recipeName": "Kung Pao Chicken",
+        "recipe_image": "https://www.onceuponachef.com/images/2018/05/Kung-Pao-Chicken-16-scaled.jpg",
+        "ingredients": [
+          {
+            "name": "chicken breast",
+            "amount": "1 pound, cut into bite-sized pieces"
+          },
+          {
+            "name": "cornstarch",
+            "amount": "2 tablespoons"
+          },
+          {
+            "name": "soy sauce",
+            "amount": "1 tablespoon"
+          },
+          {
+            "name": "rice vinegar",
+            "amount": "1 tablespoon"
+          },
+          {
+            "name": "sugar",
+            "amount": "1 tablespoon"
+          },
+          {
+            "name": "vegetable oil",
+            "amount": "2 tablespoons"
+          },
+          {
+            "name": "dried red chili peppers",
+            "amount": "8, seeded and roughly chopped"
+          },
+          {
+            "name": "Sichuan peppercorns",
+            "amount": "1 teaspoon, crushed"
+          },
+          {
+            "name": "garlic",
+            "amount": "3 cloves, minced"
+          },
+          {
+            "name": "ginger",
+            "amount": "1 tablespoon, minced"
+          },
+          {
+            "name": "green onions",
+            "amount": "3, chopped"
+          },
+          {
+            "name": "roasted peanuts",
+            "amount": "1/2 cup"
+          }
+        ],
+        "cookingMethod": "1. In a bowl, mix the chicken, cornstarch, soy sauce, rice vinegar, and sugar together.\n2. Heat the vegetable oil in a wok or large skillet over high heat. Add the chicken and stir-fry until cooked through, about 4-5 minutes. Remove the chicken from the pan and set aside.\n3. In the same pan, add the dried red chili peppers, Sichuan peppercorns, garlic, and ginger. Stir-fry for about 30 seconds or until fragrant.\n4. Add the green onions and stir-fry for another 30 seconds.\n5. Return the chicken to the pan and stir-fry for another minute or two.\n6. Add the roasted peanuts and toss to combine.\n7. Serve with steamed rice.",
+        "rating": 4.8
+      },
+      {
+        "recipeName": "Beef and Broccoli Stir Fry",
+        "recipe_image": "https://www.thespruceeats.com/thmb/VaEnqMQdywvzYB-S53-maVSyUfE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/beef-with-broccoli-stir-fry-recipe-4081780-7cae1ba73e2948cf81c2fc1ae6c67546.jpg",
+        "ingredients": [
+          {
+            "name": "beef sirloin",
+            "amount": "1 pound, thinly sliced"
+          },
+          {
+            "name": "cornstarch",
+            "amount": "2 tablespoons"
+          },
+          {
+            "name": "soy sauce",
+            "amount": "2 tablespoons"
+          },
+          {
+            "name": "hoisin sauce",
+            "amount": "1 tablespoon"
+          },
+          {
+            "name": "sugar",
+            "amount": "1 teaspoon"
+          },
+          {
+            "name": "garlic",
+            "amount": "3 cloves, minced"
+          },
+          {
+            "name": "ginger",
+            "amount": "1 tablespoon, minced"
+          },
+          {
+            "name": "vegetable oil",
+            "amount": "2 tablespoons"
+          },
+          {
+            "name": "broccoli florets",
+            "amount": "4 cups"
+          },
+          {
+            "name": "water",
+            "amount": "1/4 cup"
+          }
+        ],
+        "cookingMethod": "1. In a bowl, mix the sliced beef with cornstarch, soy sauce, hoisin sauce, sugar, garlic, and ginger. Set aside to marinate for 30 minutes.\n2. Heat vegetable oil in a wok or large skillet over high heat. Add the marinated beef and stir-fry for 2-3 minutes or until browned. Remove the beef from the pan and set aside.\n3. In the same pan, add the broccoli florets and stir-fry for 2-3 minutes or until crisp-tender.\n4. Add 1/4 cup of water to the pan and cover it with a lid. Let the broccoli steam for about 2 minutes or until it's fully cooked but still bright green.\n5. Return the beef to the pan and stir-fry for another minute or two.\n6. Serve with steamed rice.",
+        "rating": 4.7
+      }
+    ]
   },
   {
     "id": 5,
@@ -42,7 +650,177 @@
     "years_of_experience": 12,
     "num_of_recipes": 80,
     "likes": 2800,
-    "description": "Susanna Foo is a Chinese-American chef and restaurateur who has gained acclaim for her fusion of traditional Chinese and French cuisines. She was born in Inner Mongolia, China in 1944 and moved to the United States in 1960 to attend college. Foo began her culinary career in the 1980s after studying at Le Cordon Bleu in Paris and working in several prestigious restaurants. In 1987, she opened her first restaurant, Susanna Foo's Chinese Cuisine, in Philadelphia, which quickly gained recognition and earned her a James Beard Award. She went on to open several more restaurants, including Suilan in Philadelphia and Susanna Foo's Kitchen in Radnor, Pennsylvania. Foo has published several cookbooks, including \"Susanna Foo Chinese Cuisine,\" and \"Susanna Foo Fresh Inspiration.\" She is considered one of the pioneers of modern Chinese cuisine in the United States and has been recognized as a leading female chef."
+    "description": "Susanna Foo is a Chinese-American chef and restaurateur who has gained acclaim for her fusion of traditional Chinese and French cuisines. She was born in Inner Mongolia, China in 1944 and moved to the United States in 1960 to attend college. Foo began her culinary career in the 1980s after studying at Le Cordon Bleu in Paris and working in several prestigious restaurants. In 1987, she opened her first restaurant, Susanna Foo's Chinese Cuisine, in Philadelphia, which quickly gained recognition and earned her a James Beard Award. She went on to open several more restaurants, including Suilan in Philadelphia and Susanna Foo's Kitchen in Radnor, Pennsylvania. Foo has published several cookbooks, including \"Susanna Foo Chinese Cuisine,\" and \"Susanna Foo Fresh Inspiration.\" She is considered one of the pioneers of modern Chinese cuisine in the United States and has been recognized as a leading female chef.",
+    "recipes": [
+      {
+        "recipeName": "Kung Pao Chicken",
+        "recipe_image": "https://www.onceuponachef.com/images/2018/05/Kung-Pao-Chicken-16-scaled.jpg",
+        "ingredients": [
+          {
+            "name": "chicken breast",
+            "amount": "1 pound, cubed"
+          },
+          {
+            "name": "cornstarch",
+            "amount": "2 tablespoons"
+          },
+          {
+            "name": "soy sauce",
+            "amount": "2 tablespoons"
+          },
+          {
+            "name": "rice vinegar",
+            "amount": "1 tablespoon"
+          },
+          {
+            "name": "sugar",
+            "amount": "1 teaspoon"
+          },
+          {
+            "name": "vegetable oil",
+            "amount": "2 tablespoons"
+          },
+          {
+            "name": "dried chili peppers",
+            "amount": "6-8 pieces"
+          },
+          {
+            "name": "garlic",
+            "amount": "3 cloves, minced"
+          },
+          {
+            "name": "ginger",
+            "amount": "1 tablespoon, minced"
+          },
+          {
+            "name": "green onions",
+            "amount": "2, chopped"
+          },
+          {
+            "name": "roasted peanuts",
+            "amount": "1/2 cup"
+          }
+        ],
+        "cookingMethod": "1. In a bowl, mix the chicken with cornstarch, soy sauce, rice vinegar, and sugar. Set aside to marinate for 30 minutes.\n2. Heat vegetable oil in a wok or large skillet over high heat. Add the dried chili peppers and stir-fry for a few seconds until fragrant. Remove the chili peppers and set them aside.\n3. Add the marinated chicken to the pan and stir-fry for 4-5 minutes or until cooked through. Remove the chicken from the pan and set it aside.\n4. In the same pan, add garlic, ginger, and green onions. Stir-fry for a minute or two until fragrant.\n5. Return the chicken to the pan and add the roasted peanuts and chili peppers. Stir-fry for another minute or two until everything is heated through.\n6. Serve with steamed rice.",
+        "rating": 4.8
+      },
+      {
+        "recipeName": "Hot and Sour Soup",
+        "recipe_image": "https://www.pressurecookrecipes.com/wp-content/uploads/2023/02/instant-pot-hot-and-sour-soup.jpg",
+        "ingredients": [
+          {
+            "name": "dried wood ear mushrooms",
+            "amount": "1/4 cup"
+          },
+          {
+            "name": "dried shiitake mushrooms",
+            "amount": "1/4 cup"
+          },
+          {
+            "name": "bamboo shoots",
+            "amount": "1/4 cup, julienned"
+          },
+          {
+            "name": "tofu",
+            "amount": "1/4 cup, cubed"
+          },
+          {
+            "name": "pork loin",
+            "amount": "1/4 cup, julienned"
+          },
+          {
+            "name": "cornstarch",
+            "amount": "2 tablespoons"
+          },
+          {
+            "name": "chicken broth",
+            "amount": "4 cups"
+          },
+          {
+            "name": "rice vinegar",
+            "amount": "1/4 cup"
+          },
+          {
+            "name": "soy sauce",
+            "amount": "2 tablespoons"
+          },
+          {
+            "name": "sesame oil",
+            "amount": "1 teaspoon"
+          },
+          {
+            "name": "white pepper",
+            "amount": "1/2 teaspoon"
+          },
+          {
+            "name": "eggs",
+            "amount": "2, beaten"
+          },
+          {
+            "name": "green onions",
+            "amount": "2, chopped"
+          }
+        ],
+        "cookingMethod": "1. Soak the dried wood ear mushrooms and shiitake mushrooms in warm water for 15-20 minutes until they are soft. Drain and cut them into thin strips.\n2. In a pot, add the chicken broth, soaked mushrooms, bamboo shoots, tofu, and pork loin. Bring to a boil and let it simmer for 5-6 minutes.\n3. In a small bowl, mix the cornstarch with 1/4 cup of cold water until dissolved. Add the cornstarch mixture to the pot and stir until the soup thickens.\n4. Add the rice vinegar, soy sauce, sesame oil, and white pepper. Stir well.\n5. Slowly pour the beaten eggs into the soup while stirring gently in one direction. Cook for an additional minute until the eggs are cooked.\n6. Garnish with chopped green onions and serve hot.",
+        "rating": 4.7
+      },
+      {
+        "recipeName": "Ma Po Tofu",
+        "recipe_image": "https://futuredish.com/wp-content/uploads/2020/02/Spicy-Tofu.jpg",
+        "ingredients": [
+          {
+            "name": "dried shiitake mushrooms",
+            "amount": "5-6, soaked in water until soft and sliced"
+          },
+          {
+            "name": "firm tofu",
+            "amount": "1 block (14 ounces), diced"
+          },
+          {
+            "name": "ground pork",
+            "amount": "1/2 pound"
+          },
+          {
+            "name": "Sichuan peppercorns",
+            "amount": "1 tablespoon"
+          },
+          {
+            "name": "vegetable oil",
+            "amount": "2 tablespoons"
+          },
+          {
+            "name": "garlic",
+            "amount": "3 cloves, minced"
+          },
+          {
+            "name": "ginger",
+            "amount": "1 tablespoon, minced"
+          },
+          {
+            "name": "doubanjiang (spicy bean paste)",
+            "amount": "2 tablespoons"
+          },
+          {
+            "name": "water",
+            "amount": "1 cup"
+          },
+          {
+            "name": "cornstarch",
+            "amount": "2 tablespoons"
+          },
+          {
+            "name": "soy sauce",
+            "amount": "2 tablespoons"
+          },
+          {
+            "name": "green onions",
+            "amount": "2, sliced"
+          }
+        ],
+        "cookingMethod": "1. Heat the vegetable oil in a wok or large skillet over medium-high heat. Add the Sichuan peppercorns and fry until fragrant, about 30 seconds.\n2. Add the ground pork, garlic, and ginger, and stir-fry until the pork is no longer pink.\n3. Add the doubanjiang and stir-fry for another minute.\n4. Add the sliced mushrooms and tofu, and stir gently to combine.\n5. Add the water and bring to a boil. Reduce the heat to low and simmer for 10 minutes.\n6. In a small bowl, whisk together the cornstarch and soy sauce until smooth. Add the mixture to the wok and stir well.\n7. Simmer for another 2-3 minutes, until the sauce has thickened.\n8. Serve hot, garnished with sliced green onions. Enjoy with rice or noodles!",
+        "rating": "4.8"
+      }
+    ]
   },
   {
     "id": 6,
@@ -51,6 +829,144 @@
     "years_of_experience": 22,
     "num_of_recipes": 170,
     "likes": 5500,
-    "description": "Cecilia Chiang was a Chinese-American chef and restaurateur who is considered a pioneer in bringing authentic Chinese cuisine to the United States. She was born in Shanghai, China in 1920 and moved to the United States in the 1960s. Chiang opened her first restaurant, The Mandarin, in San Francisco in 1961, which became a popular destination for both locals and celebrities. The restaurant introduced traditional Chinese dishes such as Peking duck and hot and sour soup to American palates. Chiang also trained many chefs who went on to become successful in their own right, including Martin Yan and Alice Waters. She has been recognized with numerous awards, including the James Beard Foundation Lifetime Achievement Award in 2013. Chiang passed away in 2020 at the age of 100, but her legacy lives on as an influential figure in American culinary history."
+    "description": "Cecilia Chiang was a Chinese-American chef and restaurateur who is considered a pioneer in bringing authentic Chinese cuisine to the United States. She was born in Shanghai, China in 1920 and moved to the United States in the 1960s. Chiang opened her first restaurant, The Mandarin, in San Francisco in 1961, which became a popular destination for both locals and celebrities. The restaurant introduced traditional Chinese dishes such as Peking duck and hot and sour soup to American palates. Chiang also trained many chefs who went on to become successful in their own right, including Martin Yan and Alice Waters. She has been recognized with numerous awards, including the James Beard Foundation Lifetime Achievement Award in 2013. Chiang passed away in 2020 at the age of 100, but her legacy lives on as an influential figure in American culinary history.",
+    "recipes": [
+      {
+        "recipeName": "Peking Duck",
+        "recipe_image": "https://www.thespruceeats.com/thmb/ggHafkpSpJqI3zs6o92DusfEeC4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-145059660-59b1a84edafc47269db2062015b80c05.jpg",
+        "ingredients": [
+          {"name": "whole duck", "amount": "1 (4-5 pounds)"},
+          {"name": "water", "amount": "4 cups"},
+          {"name": "honey", "amount": "1/4 cup"},
+          {"name": "soy sauce", "amount": "1/4 cup"},
+          {"name": "Shaoxing wine", "amount": "1/4 cup"},
+          {"name": "hoisin sauce", "amount": "1/4 cup"},
+          {"name": "cornstarch", "amount": "2 tablespoons"},
+          {"name": "water chestnuts", "amount": "1/2 cup, finely chopped"},
+          {"name": "scallions", "amount": "1/2 cup, finely chopped"},
+          {"name": "sesame oil", "amount": "2 tablespoons"},
+          {"name": "pancakes", "amount": "10-12, warmed"},
+          {"name": "cucumber", "amount": "1, julienned"},
+          {"name": "green onions", "amount": "3, julienned"}
+        ],
+        "cookingMethod": "1. Clean the duck and remove the head and feet. Rinse thoroughly and pat dry.\n2. In a large pot, bring 4 cups of water to a boil. Add the honey, soy sauce, and Shaoxing wine. Stir until the honey has dissolved.\n3. Using a ladle, pour the hot liquid over the duck several times, until the skin is tight and shiny.\n4. Hang the duck in a cool, dry, and well-ventilated place for 6-8 hours, until the skin is dry to the touch.\n5. Preheat the oven to 375°F. Place the duck on a rack in a roasting pan, breast side up.\n6. Roast the duck for 45 minutes, then flip it over and roast for another 45 minutes, until the skin is crispy and golden brown.\n7. While the duck is roasting, make the sauce. In a small saucepan, combine the hoisin sauce, cornstarch, and 1/2 cup of water. Bring to a boil, stirring constantly, until the sauce thickens.\n8. In a small bowl, mix together the water chestnuts, scallions, and sesame oil.\n9. To serve, slice the duck meat thinly and arrange on a platter with the warmed pancakes, julienned cucumber, julienned green onions, sauce, and water chestnut mixture. To assemble, spread a spoonful of hoisin sauce on a pancake, add a few slices of duck, some cucumber and green onion, and roll up like a burrito. Enjoy!",
+        "rating": "4.9"
+      },
+      {
+        "recipeName": "Mapo Tofu",
+        "recipe_image": "https://hips.hearstapps.com/hmg-prod/images/mapo-tofu-2-jpg-1642115176.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+        "ingredients": [
+          {
+            "name": "firm tofu",
+            "amount": "1 pound"
+          },
+          {
+            "name": "ground pork",
+            "amount": "1/2 pound"
+          },
+          {
+            "name": "Sichuan peppercorns",
+            "amount": "1 tablespoon"
+          },
+          {
+            "name": "vegetable oil",
+            "amount": "2 tablespoons"
+          },
+          {
+            "name": "ginger",
+            "amount": "1 tablespoon, minced"
+          },
+          {
+            "name": "garlic",
+            "amount": "1 tablespoon, minced"
+          },
+          {
+            "name": "green onion",
+            "amount": "1/4 cup, chopped"
+          },
+          {
+            "name": "doubanjiang",
+            "amount": "2 tablespoons"
+          },
+          {
+            "name": "fermented black beans",
+            "amount": "2 tablespoons, rinsed and drained"
+          },
+          {
+            "name": "chili oil",
+            "amount": "1 tablespoon"
+          },
+          {
+            "name": "chicken stock",
+            "amount": "1 cup"
+          },
+          {
+            "name": "cornstarch",
+            "amount": "2 teaspoons"
+          },
+          {
+            "name": "water",
+            "amount": "2 tablespoons"
+          },
+          {
+            "name": "sesame oil",
+            "amount": "1 tablespoon"
+          },
+          {
+            "name": "green onion",
+            "amount": "1/4 cup, sliced (for garnish)"
+          }
+        ],
+        "cookingMethod": "1. Cut the tofu into small cubes and set aside.\n2. In a dry wok or skillet, toast the Sichuan peppercorns over medium heat until fragrant. Grind into a powder and set aside.\n3. In the same wok or skillet, heat the vegetable oil over high heat. Add the ground pork and cook, breaking up any clumps, until browned and crispy.\n4. Add the ginger, garlic, and chopped green onion and stir-fry for 30 seconds.\n5. Add the doubanjiang, fermented black beans, and chili oil and stir-fry for another 30 seconds.\n6. Pour in the chicken stock and bring to a boil.\n7. Gently stir in the tofu and cook until heated through.\n8. In a small bowl, mix the cornstarch with water to form a slurry. Add to the wok and stir gently until the sauce thickens.\n9. Remove from heat and stir in the sesame oil.\n10. Serve hot, garnished with sliced green onion.",
+        "rating": "4.8"
+      },
+      {
+        "recipeName": "Steamed Fish with Ginger and Scallions",
+        "recipe_image": "https://images.food52.com/xt6tsL9TL0mcFZGCFaV_1c1DsgU=/2016x1344/filters:format(webp)/84e5f55c-ed92-4ea4-877e-5072689aaaa4--2018-0301_sponsored_miele_steamed-fish-with-ginger-scallions_3x2_julia-gartland_162.jpg",
+        "ingredients": [
+          {
+            "name": "whole fish",
+            "amount": "1 (about 2 lbs), cleaned and scaled"
+          },
+          {
+            "name": "ginger",
+            "amount": "3 tbsp, julienned"
+          },
+          {
+            "name": "scallions",
+            "amount": "3 stalks, julienned"
+          },
+          {
+            "name": "soy sauce",
+            "amount": "2 tbsp"
+          },
+          {
+            "name": "rice wine",
+            "amount": "2 tbsp"
+          },
+          {
+            "name": "sesame oil",
+            "amount": "1 tbsp"
+          },
+          {
+            "name": "sugar",
+            "amount": "1/2 tsp"
+          },
+          {
+            "name": "salt",
+            "amount": "1/2 tsp"
+          }
+        ],
+        "cookingMethod": [
+          "Fill a wok or deep pan with water and bring to a boil.",
+          "Place the fish on a heatproof dish that will fit inside the wok or pan.",
+          "Spread the ginger and scallions on top of the fish.",
+          "Mix together the soy sauce, rice wine, sesame oil, sugar, and salt, and pour over the fish.",
+          "Place the dish inside the wok or pan, cover, and steam for 10-15 minutes or until the fish is cooked through.",
+          "Carefully remove the dish from the wok or pan and serve hot with steamed rice."
+        ],
+        "rating": 4.8
+      }
+    ]
   }
 ]
